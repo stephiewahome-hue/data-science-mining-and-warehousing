@@ -1,0 +1,201 @@
+Employee_ID,Age,Gender,Education_Level,Work_Experience,Job_Title,Department,Monthly_Salary,Performance_Score,Remote_Work_Percentage,City
+1001,50,Male,Bachelor,9,Manager,Marketing,80000.0,8,25,Nakuru
+1002,36,Female,Bachelor,16,Data Scientist,Operations,69000.0,9,25,Eldoret
+1003,29,Female,Bachelor,9,Analyst,Marketing,48000.0,3,0,Kisumu
+1004,42,Female,Bachelor,16,Consultant,Finance,91000.0,10,0,Kisumu
+1005,40,Female,Bachelor,19,Manager,Finance,64000.0,3,25,Nairobi
+1006,44,Male,Bachelor,23,Analyst,IT,76000.0,3,0,Nairobi
+1007,32,Female,Master,4,Manager,Operations,86000.0,6,25,Nakuru
+1008,32,Female,Diploma,33,Engineer,Marketing,38000.0,1,50,Nakuru
+1009,45,Male,Bachelor,5,Consultant,HR,43000.0,7,25,Mombasa
+1010,57,Male,PhD,1,Analyst,Finance,74000.0,1,25,Nakuru
+1011,45,Other,Bachelor,12,Analyst,Finance,89000.0,5,100,Mombasa
+1012,24,Female,Bachelor,10,Analyst,HR,95000.0,10,50,Eldoret
+1013,43,Male,Bachelor,22,Analyst,Marketing,48000.0,8,75,Nairobi
+1014,23,Other,Bachelor,15,Analyst,Marketing,93000.0,4,50,Eldoret
+1015,45,Other,Bachelor,30,Manager,Operations,75000.0,5,0,Nakuru
+1016,51,Female,Diploma,10,Consultant,Operations,62000.0,4,0,Eldoret
+1017,59,Female,Bachelor,15,Engineer,IT,67000.0,4,25,Eldoret
+1018,23,Male,Bachelor,7,Engineer,Finance,96000.0,8,0,Eldoret
+1019,42,Male,Master,3,Engineer,Operations,85000.0,2,0,Nakuru
+1020,54,Female,Bachelor,39,Engineer,Marketing,81000.0,1,0,Eldoret
+1021,33,Female,Diploma,3,Manager,HR,85000.0,3,25,Mombasa
+1022,43,Female,Bachelor,24,Data Scientist,Marketing,99000.0,9,50,Nakuru
+1023,46,Male,Bachelor,2,Consultant,Finance,78000.0,4,50,Eldoret
+1024,48,Female,Diploma,31,Analyst,Marketing,81000.0,10,25,Nakuru
+1025,49,Female,Bachelor,2,Data Scientist,IT,103000.0,5,50,Kisumu
+1026,37,Female,Bachelor,26,Engineer,Finance,73000.0,2,0,Mombasa
+1027,36,Female,Bachelor,28,Data Scientist,HR,92000.0,4,75,Eldoret
+1028,24,Female,Bachelor,31,Consultant,IT,70000.0,2,0,Kisumu
+1029,58,Female,Bachelor,18,Analyst,Finance,72000.0,2,100,Kisumu
+1030,28,Male,Diploma,20,Analyst,HR,78000.0,4,25,Nakuru
+1031,42,Female,Diploma,4,Consultant,IT,90000.0,6,0,Kisumu
+1032,30,Other,PhD,17,Consultant,IT,104000.0,7,0,Mombasa
+1033,39,Male,Master,27,Engineer,Finance,82000.0,10,0,Mombasa
+1034,25,Male,Bachelor,21,Analyst,Operations,50000.0,3,0,Nairobi
+1035,46,Female,PhD,20,Data Scientist,IT,93000.0,3,0,Mombasa
+1036,35,Male,Bachelor,5,Manager,IT,129000.0,10,25,Kisumu
+1037,30,Other,Bachelor,0,Manager,HR,82000.0,6,25,Mombasa
+1038,47,Male,Bachelor,4,Consultant,Marketing,46000.0,3,25,Nakuru
+1039,23,Male,Diploma,11,Engineer,Finance,83000.0,2,75,Nairobi
+1040,41,Female,Diploma,25,Manager,Finance,80000.0,8,25,Kisumu
+1041,49,Male,Bachelor,33,Analyst,Operations,78000.0,5,25,Nairobi
+1042,28,Male,Bachelor,13,Consultant,Operations,99000.0,1,0,Kisumu
+1043,29,Female,Diploma,25,Data Scientist,Finance,108000.0,3,50,Nakuru
+1044,56,Female,Master,26,Consultant,Operations,94000.0,10,0,Nairobi
+1045,35,Male,Master,8,Data Scientist,HR,77000.0,8,100,Eldoret
+1046,38,Female,Diploma,25,Consultant,Finance,103000.0,4,50,Kisumu
+1047,57,Female,Master,21,Consultant,Operations,50000.0,7,25,Eldoret
+1048,25,Female,PhD,29,Consultant,Finance,66000.0,10,0,Nairobi
+1049,23,Male,PhD,16,Data Scientist,Marketing,68000.0,2,75,Eldoret
+1050,27,Female,Diploma,25,Data Scientist,IT,79000.0,7,50,Eldoret
+1051,25,Other,Bachelor,35,Consultant,Finance,90000.0,5,0,Nairobi
+1052,50,Female,Bachelor,0,Manager,IT,76000.0,5,0,Nakuru
+1053,39,Female,Bachelor,7,Engineer,Operations,62000.0,6,50,Eldoret
+1054,47,Male,PhD,34,Engineer,IT,99000.0,9,0,Eldoret
+1055,55,Male,Bachelor,14,Engineer,Finance,75000.0,6,75,Nakuru
+1056,31,Female,Master,21,Data Scientist,Marketing,82000.0,8,0,Eldoret
+1057,57,Female,Master,13,Data Scientist,Operations,91000.0,7,0,Eldoret
+1058,35,Female,Master,25,Manager,Finance,81000.0,9,50,Eldoret
+1059,52,Male,Bachelor,27,Engineer,Operations,81000.0,4,0,Mombasa
+1060,36,Female,Diploma,22,Engineer,HR,101000.0,2,25,Nakuru
+1061,29,Female,Bachelor,13,Consultant,IT,83000.0,7,0,Eldoret
+1062,35,Female,Master,23,Data Scientist,HR,97000.0,6,0,Nakuru
+1063,44,Male,Diploma,1,Engineer,Finance,91000.0,1,25,Kisumu
+1064,42,Other,Bachelor,25,Manager,Marketing,120000.0,9,25,Kisumu
+1065,37,Male,Diploma,13,Manager,Operations,88000.0,9,25,Eldoret
+1066,39,Male,Bachelor,6,Engineer,IT,93000.0,2,50,Nakuru
+1067,45,Female,Master,2,Data Scientist,Operations,102000.0,3,25,Nakuru
+1068,47,Female,Master,22,Manager,Finance,81000.0,5,0,Nakuru
+1069,46,Female,Diploma,17,Consultant,Operations,67000.0,5,0,Mombasa
+1070,50,Male,Master,37,Manager,IT,71000.0,1,75,Kisumu
+1071,36,Female,Bachelor,34,Analyst,Finance,71000.0,8,50,Nakuru
+1072,22,Female,Bachelor,14,Analyst,Operations,61000.0,8,25,Nakuru
+1073,46,Other,Bachelor,24,Data Scientist,Marketing,86000.0,4,0,Mombasa
+1074,28,Male,Bachelor,36,Engineer,Finance,67000.0,7,0,Mombasa
+1075,30,Male,Bachelor,27,Data Scientist,Finance,84000.0,10,50,Nakuru
+1076,45,Male,Bachelor,9,Data Scientist,Marketing,77000.0,3,75,Nairobi
+1077,22,Male,Diploma,38,Data Scientist,HR,79000.0,6,25,Nakuru
+1078,29,Female,Bachelor,16,Data Scientist,IT,91000.0,10,50,Nakuru
+1079,45,Male,Bachelor,38,Consultant,HR,69000.0,10,50,Mombasa
+1080,32,Male,Bachelor,21,Consultant,Operations,93000.0,9,0,Mombasa
+1081,38,Female,Bachelor,25,Manager,Marketing,111000.0,1,0,Nakuru
+1082,29,Female,Bachelor,24,Analyst,HR,87000.0,5,0,Nakuru
+1083,56,Male,Bachelor,16,Data Scientist,Finance,64000.0,4,0,Nakuru
+1084,56,Male,Master,12,Manager,Operations,68000.0,8,75,Mombasa
+1085,54,Female,Master,19,Analyst,Operations,75000.0,1,0,Nakuru
+1086,26,Male,Bachelor,24,Engineer,HR,68000.0,9,25,Nakuru
+1087,49,Male,Bachelor,3,Consultant,HR,60000.0,6,0,Eldoret
+1088,28,Male,Diploma,9,Analyst,Marketing,83000.0,4,0,Nairobi
+1089,30,Male,Bachelor,2,Engineer,IT,76000.0,9,0,Kisumu
+1090,29,Female,Bachelor,17,Analyst,HR,84000.0,5,0,Nairobi
+1091,33,Male,Diploma,35,Consultant,HR,104000.0,5,25,Eldoret
+1092,55,Female,Bachelor,21,Consultant,Finance,75000.0,5,0,Kisumu
+1093,54,Female,Bachelor,33,Manager,Operations,56000.0,1,25,Nakuru
+1094,44,Male,Master,7,Data Scientist,IT,72000.0,1,0,Eldoret
+1095,45,Male,PhD,39,Analyst,Finance,95000.0,8,0,Nakuru
+1096,58,Male,Bachelor,18,Analyst,Marketing,94000.0,8,0,Mombasa
+1097,56,Female,Bachelor,36,Engineer,Marketing,90000.0,6,25,Eldoret
+1098,43,Male,Diploma,5,Consultant,HR,68000.0,4,25,Mombasa
+1099,48,Male,Master,25,Analyst,HR,95000.0,2,0,Eldoret
+1100,56,Female,Master,33,Consultant,Marketing,100000.0,2,0,Eldoret
+1101,22,Male,Bachelor,5,Analyst,HR,66000.0,9,50,Mombasa
+1102,56,Male,Bachelor,36,Manager,IT,79000.0,5,0,Kisumu
+1103,58,Male,Diploma,32,Data Scientist,HR,120000.0,4,0,Nairobi
+1104,35,Male,Diploma,21,Analyst,Operations,65000.0,10,50,Nakuru
+1105,24,Female,Diploma,20,Consultant,HR,46000.0,1,25,Eldoret
+1106,22,Male,Bachelor,5,Manager,Finance,108000.0,7,0,Nakuru
+1107,26,Female,PhD,5,Analyst,IT,103000.0,3,75,Mombasa
+1108,47,Male,Bachelor,3,Engineer,Finance,71000.0,6,50,Nakuru
+1109,35,Female,Bachelor,29,Data Scientist,Finance,78000.0,5,0,Mombasa
+1110,48,Male,Bachelor,10,Analyst,Operations,56000.0,5,25,Nakuru
+1111,30,Male,Master,29,Manager,IT,82000.0,5,25,Nairobi
+1112,36,Other,PhD,30,Engineer,IT,103000.0,1,0,Nairobi
+1113,36,Female,Diploma,23,Manager,IT,69000.0,1,0,Nairobi
+1114,47,Female,Bachelor,8,Manager,IT,98000.0,3,0,Nairobi
+1115,34,Male,Diploma,2,Engineer,IT,89000.0,10,25,Nairobi
+1116,53,Male,Bachelor,30,Manager,Operations,92000.0,4,0,Nairobi
+1117,53,Male,Diploma,39,Engineer,HR,70000.0,5,50,Mombasa
+1118,25,Female,Bachelor,36,Analyst,Finance,73000.0,2,25,Eldoret
+1119,51,Male,Bachelor,35,Engineer,IT,43000.0,8,0,Nakuru
+1120,58,Female,Diploma,23,Engineer,HR,69000.0,2,25,Nairobi
+1121,44,Male,Bachelor,30,Data Scientist,HR,103000.0,9,0,Mombasa
+1122,36,Other,Bachelor,5,Engineer,Finance,61000.0,2,25,Mombasa
+1123,50,Male,Bachelor,1,Engineer,Operations,64000.0,9,25,Mombasa
+1124,57,Female,Bachelor,19,Analyst,Marketing,93000.0,7,0,Eldoret
+1125,34,Male,Diploma,27,Data Scientist,Marketing,88000.0,8,0,Nakuru
+1126,53,Male,Bachelor,10,Consultant,HR,94000.0,2,0,Eldoret
+1127,28,Female,Bachelor,3,Analyst,Finance,57000.0,7,0,Kisumu
+1128,43,Male,Bachelor,14,Analyst,Marketing,131000.0,6,0,Mombasa
+1129,49,Male,Bachelor,5,Consultant,HR,56000.0,4,0,Kisumu
+1130,23,Other,Diploma,29,Engineer,Operations,83000.0,7,100,Nairobi
+1131,27,Female,Diploma,37,Manager,Marketing,77000.0,4,0,Nairobi
+1132,49,Male,Master,1,Data Scientist,HR,56000.0,2,0,Eldoret
+1133,49,Male,Bachelor,14,Manager,HR,73000.0,10,25,Nakuru
+1134,41,Male,Bachelor,10,Consultant,IT,80000.0,7,0,Kisumu
+1135,51,Female,Master,7,Analyst,Operations,67000.0,8,100,Nakuru
+1136,32,Male,Diploma,25,Analyst,IT,99000.0,2,25,Eldoret
+1137,49,Male,Master,4,Data Scientist,Finance,77000.0,5,50,Nairobi
+1138,46,Male,Bachelor,5,Analyst,IT,53000.0,1,0,Nakuru
+1139,54,Male,Diploma,25,Analyst,IT,51000.0,7,0,Nakuru
+1140,22,Female,Bachelor,3,Data Scientist,Marketing,92000.0,8,0,Nairobi
+1141,48,Male,Master,18,Data Scientist,HR,50000.0,6,50,Kisumu
+1142,34,Female,Bachelor,19,Consultant,Operations,86000.0,5,0,Nairobi
+1143,24,Male,PhD,32,Analyst,IT,89000.0,6,0,Nakuru
+1144,27,Male,Bachelor,19,Analyst,Operations,60000.0,2,100,Kisumu
+1145,29,Male,Bachelor,11,Consultant,IT,98000.0,1,0,Kisumu
+1146,48,Male,Bachelor,0,Engineer,Finance,46000.0,7,0,Nairobi
+1147,30,Female,Master,25,Engineer,IT,86000.0,7,0,Nakuru
+1148,58,Female,Bachelor,13,Engineer,Marketing,79000.0,10,100,Eldoret
+1149,54,Female,Diploma,37,Consultant,HR,78000.0,10,0,Nakuru
+1150,45,Female,Diploma,36,Analyst,Finance,56000.0,2,50,Mombasa
+1151,36,Male,Diploma,10,Consultant,IT,61000.0,2,50,Eldoret
+1152,53,Female,Diploma,35,Consultant,Operations,112000.0,1,0,Kisumu
+1153,53,Male,Diploma,12,Engineer,Finance,104000.0,10,25,Eldoret
+1154,45,Female,Bachelor,2,Manager,Finance,95000.0,8,0,Kisumu
+1155,33,Male,Bachelor,32,Analyst,IT,99000.0,8,0,Kisumu
+1156,23,Male,Bachelor,5,Engineer,Finance,97000.0,1,50,Eldoret
+1157,24,Male,Master,9,Manager,Operations,74000.0,8,75,Kisumu
+1158,58,Male,Bachelor,4,Manager,Finance,81000.0,9,25,Kisumu
+1159,38,Male,Bachelor,22,Data Scientist,Operations,51000.0,4,25,Mombasa
+1160,23,Male,Master,9,Analyst,IT,78000.0,1,0,Nakuru
+1161,23,Other,Bachelor,1,Manager,HR,104000.0,1,0,Nakuru
+1162,49,Male,Diploma,12,Engineer,Finance,67000.0,3,0,Mombasa
+1163,44,Male,Diploma,39,Data Scientist,HR,100000.0,5,0,Eldoret
+1164,58,Female,Bachelor,1,Analyst,Operations,82000.0,5,0,Nairobi
+1165,53,Female,Bachelor,19,Consultant,Finance,52000.0,9,0,Nairobi
+1166,54,Male,Diploma,0,Engineer,Marketing,58000.0,10,0,Nairobi
+1167,22,Male,Master,36,Manager,HR,98000.0,2,0,Mombasa
+1168,40,Female,Master,8,Manager,Finance,91000.0,2,25,Mombasa
+1169,23,Male,Diploma,16,Engineer,HR,82000.0,6,50,Kisumu
+1170,47,Female,Bachelor,8,Manager,Finance,75000.0,9,0,Nairobi
+1171,53,Female,Diploma,10,Data Scientist,IT,84000.0,1,75,Eldoret
+1172,27,Male,Bachelor,14,Analyst,HR,98000.0,9,75,Eldoret
+1173,53,Male,Bachelor,23,Data Scientist,Marketing,110000.0,9,0,Nairobi
+1174,25,Female,Master,37,Manager,Marketing,110000.0,9,50,Nairobi
+1175,32,Female,Bachelor,34,Consultant,Operations,87000.0,5,25,Nairobi
+1176,38,Female,Master,29,Analyst,Finance,77000.0,9,25,Mombasa
+1177,59,Female,PhD,30,Analyst,HR,83000.0,4,0,Mombasa
+1178,45,Female,Diploma,4,Engineer,Operations,90000.0,2,25,Mombasa
+1179,26,Female,Master,13,Engineer,HR,90000.0,6,0,Nakuru
+1180,55,Female,Bachelor,10,Consultant,Finance,106000.0,4,25,Eldoret
+1181,27,Female,Bachelor,8,Analyst,Marketing,122000.0,6,25,Eldoret
+1182,43,Female,Bachelor,33,Consultant,IT,76000.0,3,25,Kisumu
+1183,32,Female,Master,11,Engineer,Marketing,123000.0,6,25,Mombasa
+1184,37,Female,Bachelor,34,Engineer,Operations,103000.0,2,50,Nakuru
+1185,54,Female,Master,34,Analyst,IT,78000.0,2,0,Nakuru
+1186,30,Male,Master,0,Data Scientist,Operations,110000.0,9,0,Eldoret
+1187,27,Female,Bachelor,39,Manager,Finance,114000.0,7,50,Mombasa
+1188,37,Female,PhD,21,Engineer,IT,71000.0,3,0,Kisumu
+1189,50,Female,Bachelor,28,Engineer,Operations,115000.0,1,0,Mombasa
+1190,24,Female,Bachelor,7,Data Scientist,Finance,102000.0,8,0,Nairobi
+1191,41,Female,Bachelor,10,Data Scientist,Marketing,127000.0,6,0,Mombasa
+1192,57,Male,Diploma,36,Consultant,Finance,72000.0,7,100,Nairobi
+1193,40,Male,Bachelor,13,Consultant,HR,73000.0,9,25,Nairobi
+1194,47,Male,Bachelor,29,Manager,Finance,39000.0,5,75,Kisumu
+1195,24,Male,Bachelor,34,Manager,Finance,91000.0,1,25,Eldoret
+1196,40,Male,Master,20,Analyst,HR,88000.0,10,0,Mombasa
+1197,41,Female,Bachelor,36,Consultant,Operations,69000.0,7,0,Nairobi
+1198,53,Male,Bachelor,4,Engineer,Operations,78000.0,5,25,Mombasa
+1199,28,Female,Bachelor,18,Consultant,Finance,54000.0,3,0,Eldoret
+1200,54,Male,Master,13,Engineer,HR,104000.0,9,75,Eldoret
