@@ -35,7 +35,7 @@ Each model was trained on 80% of the patients and tested on the remaining 20% it
 5. **Age**
 6. Insulin, Blood Pressure, Skin Thickness — minimal effect
 
-## 3. Explaineation
+## 3. Explanation
 
 We gave a computer 768 patient report cards and asked it to spot the pattern behind who gets diabetes.
 
